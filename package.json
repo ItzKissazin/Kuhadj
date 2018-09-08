@@ -1,0 +1,17 @@
+{
+  "name": "kuhadj",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItzKissaz",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2",
+    "unirest": "^0.5.1",
+    "ytdl-core": "^0.24.0"
+  }
+}
